@@ -1,0 +1,16 @@
+/*style.css*/
+
+#click{
+    background-color: black;
+}
+
+#no{
+    color: black;
+    background-color: yellow;
+}
+
+button{
+    color: white;
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
